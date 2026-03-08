@@ -1,0 +1,101 @@
+# DAT_ram_ address map for humidifi.so
+# 98 unique addresses
+
+0x00031900  [.rodata        ]  hex: 7a fd 74 2b 27 f7 59 e9 c6 70 70 3c d3 9d 81 7a
+0x00031940  [.rodata        ]  hex: 8c 97 25 8f 4e 24 89 f1 bb 3d 10 29 14 8e 0d 83
+0x00031980  [.rodata        ]  hex: 06 dd f6 e1 d7 65 a1 93 d9 cb e1 46 ce eb 79 ac
+0x000319a0  [.rodata        ]  hex: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0x000319c0  [.rodata        ]  hex: 06 d3 ed c4 e5 73 ad af f3 e5 73 89 8b 54 5b 1e
+0x00031a00  [.rodata        ]  hex: 06 dd f6 e1 ee 75 8f de 18 42 5d bc e4 6c cd da
+0x00031a20  [.rodata        ]  hex: 23 bf 68 11 3e f9 7b a5 ed 03 d3 33 6b 91 4d 69
+0x00031a40  [.rodata        ]  hex: 44 d5 80 30 3b 1b 54 a0 e4 3a 75 4b 00 a9 bf b5
+0x00031a60  [.rodata        ]  hex: 9f 32 da 9c 1f 6c 12 50 c0 9b 73 39 23 ec c3 67
+0x00031b64  [.rodata        ]  hex: 63 61 6c 6c 65 64 20 60 52 65 73 75 6c 74 3a 3a
+0x00031b8f  [.rodata        ]  hex: 66 69 78 65 64 20 70 6f 69 6e 74 20 73 71 75 61
+0x00031bdf  [.rodata        ]  hex: 66 72 6f 6d 5f 62 79 74 65 73 66 72 6f 6d 5f 62
+0x00031be9  [.rodata        ]  hex: 66 72 6f 6d 5f 62 79 74 65 73 5f 6d 75 74 3e 73
+0x00031c5e  [.rodata        ]  hex: f0 9f a6 90 f0 9f 90 8b f0 9f a6 80 f0 9f 90 b3
+0x00031c62  [.rodata        ]  hex: f0 9f 90 8b f0 9f a6 80 f0 9f 90 b3 f0 9f 90 b2
+0x00031c66  [.rodata        ]  hex: f0 9f a6 80 f0 9f 90 b3 f0 9f 90 b2 f0 9f a6 88
+0x00031c6a  [.rodata        ]  hex: f0 9f 90 b3 f0 9f 90 b2 f0 9f a6 88 f0 9f 90 a0
+0x00031c6e  [.rodata        ]  hex: f0 9f 90 b2 f0 9f a6 88 f0 9f 90 a0 f0 9f 90 ac
+0x00031c72  [.rodata        ]  hex: f0 9f a6 88 f0 9f 90 a0 f0 9f 90 ac f0 9f 90 9f
+0x00031c76  [.rodata        ]  hex: f0 9f 90 a0 f0 9f 90 ac f0 9f 90 9f f0 9f 90 89
+0x00031c7a  [.rodata        ]  hex: f0 9f 90 ac f0 9f 90 9f f0 9f 90 89 f0 9f 90 89
+0x00031c7e  [.rodata        ]  hex: f0 9f 90 9f f0 9f 90 89 f0 9f 90 89 f0 9f 90 89
+0x00031f46  [.rodata        ]  hex: f0 9f 90 89 f0 9f 90 89 f0 9f 90 89 f0 9f 90 89
+0x00031fb2  [.rodata        ]  hex: 70 6f 6f 6c 76 31 49 6e 76 61 6c 69 64 20 45 78
+0x00032033  [.rodata        ]  hex: db 40 e1 6e dd b6 60 65 3c 28 56 7e f1 fd c5 e9
+0x00032150  [.rodata        ]  hex: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0x000321b8  [.rodata        ]  hex: 0a 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00
+0x000321d0  [.rodata        ]  hex: 03 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00
+0x00032218  [.rodata        ]  hex: 02 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00
+0x00032260  [.rodata        ]  hex: 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00
+0x00032340  [.rodata        ]  hex: 63 61 6c 6c 65 64 20 60 4f 70 74 69 6f 6e 3a 3a
+0x0003237f  [.rodata        ]  hex: 30 30 30 31 30 32 30 33 30 34 30 35 30 36 30 37
+0x000324b8  [.data.rel.ro   ]  &str "/home/runner/work/platform-tools/platform-tools/out/rust/library/core/src/cmp.rs" (len=80)
+0x000324d0  [.data.rel.ro   ]  &str "division by zero" (len=16)
+0x000324e0  [.data.rel.ro   ]  &str "src/arith.rs" (len=12)
+0x000324f8  [.data.rel.ro   ]  &str "src/lib.rs" (len=10)
+0x00032510  [.data.rel.ro   ]  &str "insufficient capacity" (len=21)
+0x00032520  [.data.rel.ro   ]  &str "CapacityError: " (len=15)
+0x00032530  [.data.rel.ro   ]  hex: 00 00 00 00 00 00 00 00 18 00 00 00 00 00 00 00
+0x00032550  [.data.rel.ro   ]  hex: 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00
+0x00032590  [.data.rel.ro   ]  hex: 00 00 00 00 00 00 00 00 18 00 00 00 00 00 00 00
+0x000325b0  [.data.rel.ro   ]  hex: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0x000325d0  [.data.rel.ro   ]  &str "src/internal.rs" (len=15)
+0x000325e8  [.data.rel.ro   ]  &str "Unable to find a viable program address bump seed" (len=49)
+0x000325f8  [.data.rel.ro   ]  &str "src/pubkey.rs" (len=13)
+0x00032610  [.data.rel.ro   ]  &str "contract/src/arith.rs" (len=21)
+0x00032628  [.data.rel.ro   ]  &str "contract/src/instructions.rs" (len=28)
+0x00032640  [.data.rel.ro   ]  &str "contract/src/instructions.rs" (len=28)
+0x00032658  [.data.rel.ro   ]  &str "Invalid Exp value" (len=17)
+0x00032668  [.data.rel.ro   ]  &str "contract/src/ops.rs" (len=19)
+0x00032680  [.data.rel.ro   ]  &str "contract/src/ops.rs" (len=19)
+0x00032698  [.data.rel.ro   ]  &str "contract/src/ops.rs" (len=19)
+0x000326c8  [.data.rel.ro   ]  &str "contract/src/routers/dflow.rs" (len=29)
+0x000326e0  [.data.rel.ro   ]  &str "contract/src/routers/dflow.rs" (len=29)
+0x000326f8  [.data.rel.ro   ]  &str "contract/src/routers/dflow.rs" (len=29)
+0x00032710  [.data.rel.ro   ]  &str "contract/src/routers/dflow.rs" (len=29)
+0x00032728  [.data.rel.ro   ]  &str "contract/src/routers/dflow.rs" (len=29)
+0x00032740  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032758  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032770  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032788  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x000327a0  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x000327b8  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x000327d0  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x000327e8  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032800  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032818  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032830  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032848  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032860  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032878  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032890  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x000328a8  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x000328c0  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x000328d8  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x000328f0  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032908  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032920  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032938  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032950  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032980  [.data.rel.ro   ]  &str "contract/src/routers/jupiter.rs" (len=31)
+0x00032998  [.data.rel.ro   ]  &str "contract/src/stateupdate.rs" (len=27)
+0x000329c0  [.data.rel.ro   ]  &str "disabled ixn" (len=12)
+0x000329d0  [.data.rel.ro   ]  &str "contract/src/instructions.rs" (len=28)
+0x000329e8  [.data.rel.ro   ]  &str "contract/src/instructions.rs" (len=28)
+0x00032a00  [.data.rel.ro   ]  &str "contract/src/instructions.rs" (len=28)
+0x00032a18  [.data.rel.ro   ]  &str "contract/src/lib.rs" (len=19)
+0x00032a30  [.data.rel.ro   ]  &str "contract/src/arith.rs" (len=21)
+0x00032a48  [.data.rel.ro   ]  &str "arithmetic operation overflow" (len=29)
+0x00032a58  [.data.rel.ro   ]  hex: 00 00 00 00 5a 1c 03 00 00 00 00 00 82 1c 03 00
+0x00032b10  [.data.rel.ro   ]  &str "Unable to find a viable program address bump seed" (len=49)
+0x00032b20  [.data.rel.ro   ]  &str "src/lib.rs" (len=10)
+0x00032b38  [.data.rel.ro   ]  &str "index out of bounds: the len is " (len=32)
+0x00032b58  [.data.rel.ro   ]  hex: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0x00032b78  [.data.rel.ro   ]  &str "attempt to divide by zero" (len=25)
+0x00032b88  [.data.rel.ro   ]  &str "range start index " (len=18)
+0x00032ba8  [.data.rel.ro   ]  &str "range end index " (len=16)
+0x00032bc8  [.data.rel.ro   ]  &str "slice index starts at " (len=22)
